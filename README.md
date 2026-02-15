@@ -26,7 +26,6 @@ This application performs simultaneous tracking of colors, hands, and body poses
 | **Landmark Logic** | MediaPipe |
 | **ML Training** | Scikit-learn / TensorFlow |
 | **IDE** | Google Antigravity |
-| **Agent** | Claude Opus 4.6 |
 
 ---
 
@@ -38,3 +37,12 @@ Ensure you have a working webcam and Python installed.
 ### 2. Installation
 ```bash
 pip install opencv-python mediapipe numpy scikit-learn
+```
+
+### 3. Usage
+```bash
+ python main.py
+```
+
+### Contributing
+Feel free to fork this repo and submit PRs. For major changes, please open an issue first to discuss what you would like to change.
